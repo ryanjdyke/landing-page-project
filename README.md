@@ -1,1 +1,1 @@
- landing-page-project
+A project designed to test HTML, CSS, and flexbox skills
